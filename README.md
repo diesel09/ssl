@@ -7,9 +7,9 @@
 
 Copia y pega el siguiente comando para realizar la instalación
 
-apt-get update && apt-get install ca-certificates && wget https://raw.githubusercontent.com/powermx/ssl/master/install && bash install
+apt-get update && apt-get install ca-certificates && wget https://github.com/diesel09/ssl/blob/master/install && bash install
 
 
-Android México Team / PwrMX
-=========
- ,
+NetFree Mx
+
+Visita mi Blog https://tekaxenlinea.blogspot.com/
